@@ -40,13 +40,13 @@
                 <a href="https://fernando-espinoza.net">WordPress site</a>
             </li>
             <li>
-                <a href="https://unco-bacs.org/bacs350">My Home Page</a>
+                <a href="https://fernando-espinoza.net/bacs350">My Home Page</a>
             </li>
             <li>
                 <a href="https://shrinking-world.com/unc/bacs350">Sensei Server</a>
             </li>
             <li>
-                <a href="https://github.com/Mark-Seaman/UNC-BACS350-2019-Fall">Github</a>
+                <a href="https://github.com/fernando-esp/UNC-BACS350-2019-Fall">Github</a>
             </li>
         </ul>
         
