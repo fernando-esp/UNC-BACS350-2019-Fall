@@ -13,7 +13,7 @@
             <a href="/bacs350">Home</a>
         </p>
         <p> 
-            <img src="/bacs350/images/Mark-Seaman-200.jpg" alt="Mark Seaman"></img>
+            <img src="/bacs350/images/Fernando_E.jpg" alt="Fernando Espinoza"></img>
         </p>
         
         <h3>Code</h3>
