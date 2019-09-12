@@ -37,7 +37,7 @@
                 <a href="https://www.unco.edu/canvas/">Canvas</a>
             </li>
             <li>
-                <a href="https://unco-bacs.org">WordPress site</a>
+                <a href="https://fernando-espinoza.net">WordPress site</a>
             </li>
             <li>
                 <a href="https://unco-bacs.org/bacs350">My Home Page</a>
